@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-01",
+  "matches": [
+    {
+      "id": "match-001",
+      "home": "India",
+      "away": "West Indies",
+      "competition": "Demo ODI",
+      "sport": "Cricket",
+      "status": "LIVE",
+      "time": "2026-10-01T18:00:00+00:00",
+      "score": "1 — 0",
+      "homeLogo": "https://flagcdn.com/w80/in.png",
+      "awayLogo": "https://flagcdn.com/w80/bb.png"
+    }
+  ],
+  "_instructions": "This file controls match cards and status. Keep the same id in match-links.json to attach one or more playable stream links."
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-01",
+  "links": {
+    "match-001": [
+      {
+        "name": "DEMO SERVER 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "type": "hls"
+      }
+    ]
+  },
+  "_instructions": "Put stream links here by match id. Example: \"match-001\": [{\"name\":\"SERVER 1\",\"url\":\"https://example.com/live.m3u8\"}]"
+}
